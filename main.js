@@ -56,19 +56,19 @@ if(e.shiftKey == true && keyPressed == "77"){
         console.log("f");
     }
     if(keyPressed=="66"){
-        newImage("hulkd_body.png");
+        newImage("ironman_body.png");
         console.log("b");
     }
     if(keyPressed=="76"){
-        newImage("ironman_legs.png");
+        newImage("hulk_legs.png");
         console.log("l");
     }
     if(keyPressed=="82"){
-        newImage("ironman_left_hand.png");
+        newImage("thor_right_hand.png");
         console.log("r");
     }
     if(keyPressed=="72"){
-        newImage("thor_right_hand.png");
+        newImage("thor_left_hand.png");
         console.log("h");
     }
     if(keyPressed=="38"){
